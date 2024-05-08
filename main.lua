@@ -5,5 +5,3 @@ getgenv().LoadSettings = {
     Example_Setting = Example_Value
 }
 loadstring(game:HttpGet("https://HugeGames.io/ps99"))()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Mooncake8466/RobloxLua/main/backroom.lua"))()
